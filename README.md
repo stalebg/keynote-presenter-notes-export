@@ -26,8 +26,6 @@ You must have a Keynote presentation open on your Mac.
 
 7. The script will create a text file on your Desktop containing the presenter notes from your Keynote presentation. The name of the text file will be "keynote-notes-" followed by the name of your presentation. The presenter notes will also be copied to your clipboard.
 
-A checkmark or a computer emoji could work well with the compatibility section. Here's how it could look:
-
 ## 💻 Compatibility
 
 The script has been confirmed to work on an M1 Mac running macOS Ventura version 13.3.1 and Keynote version 13.0.
